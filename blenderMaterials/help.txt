@@ -1,0 +1,5 @@
+shift + a - open the primitive solids option
+x - delete an object
+s - for scale - increase or decrease the size of the object
+g - move the object
+g, and after x - move on x axis, same as the others

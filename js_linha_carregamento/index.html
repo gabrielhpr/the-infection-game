@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        Criador de linha de carregamento
+    </head>
+
+    <body>
+        
+        <input type="text" id="linhaDeCarregamento"/>
+        <button onclick="myFunction()">click here</button>
+        <p id="meuParag"></p>
+        <script>
+            function myFunction(){
+                let texto;
+                texto = document.getElementById("linhaDeCarregamento").value;
+                //Transforma a string em um array
+                texto = texto.split(/[\s]+/);
+                //Inverte o array
+                texto.reverse();
+                document.getElementById("meuParag").innerHTML = texto;
+            }             
+        </script>
+    </body>
+</html>
