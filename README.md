@@ -5,6 +5,10 @@ The scenario was created in a spreadsheet, the default size of scenario is 50x16
 Inside the spreadsheet, copy the obstacle with its code and paste in the place you want, after creating the scenario in spreadsheet copy all the scenario, open the .html file 
 inside js_preprocessing folder, paste into the input box and copy the result. This result will be paste in the code.
 
+ Objects with its codes |  Scenario created  
+---|---|
+![alt text](images/scenarioGeneration1.png "Title Text") | ![alt text](images/scenarioGeneration2.png "Title Text") 
+
 # Screens of the game
 
   Home Screen |  Level Screen  |    Game Screen
