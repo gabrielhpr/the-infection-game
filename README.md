@@ -1,4 +1,6 @@
 # Screens of the game
 
-
-![alt text](images/grauna5.png "Title Text") | ![alt text](images/grauna.png "Title Text") |  ![alt text](images/grauna2.png "Title Text")
+---|---|---
+![alt text](images/screen1.jpeg "Title Text") | ![alt text](images/screen2.jpeg "Title Text") |  ![alt text](images/screen3.jpeg "Title Text")
+---|---|---
+![alt text](images/screen4.jpeg "Title Text") | ![alt text](images/screen5.jpeg "Title Text") |  ![alt text](images/screen6.jpeg "Title Text")
